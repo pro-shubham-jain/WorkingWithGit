@@ -86,12 +86,11 @@
     </sap:WorkflowViewStateService.ViewState>
     <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build Collection" FirstItem="Germany" sap:VirtualizedContainerService.HintSize="434,145.33333333333334" sap2010:WorkflowViewState.IdRef="BuildCollection`1_1" Result="[Cities]">
       <uasc:BuildCollection.NextItems>
-        <scg:List x:TypeArguments="InArgument(x:String)" Capacity="8">
+        <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Spain</InArgument>
           <InArgument x:TypeArguments="x:String">Japan</InArgument>
           <InArgument x:TypeArguments="x:String">UK</InArgument>
-          <InArgument x:TypeArguments="x:String">India</InArgument>
-          <InArgument x:TypeArguments="x:String">China</InArgument>
+          <InArgument x:TypeArguments="x:String">Russia</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
