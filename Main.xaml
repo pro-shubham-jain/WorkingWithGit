@@ -89,7 +89,7 @@
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="8">
           <InArgument x:TypeArguments="x:String">Spain</InArgument>
           <InArgument x:TypeArguments="x:String">Japan</InArgument>
-          <InArgument x:TypeArguments="x:String">Brazil</InArgument>
+          <InArgument x:TypeArguments="x:String">UK</InArgument>
           <InArgument x:TypeArguments="x:String">India</InArgument>
           <InArgument x:TypeArguments="x:String">China</InArgument>
         </scg:List>
